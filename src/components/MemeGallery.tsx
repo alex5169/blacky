@@ -12,10 +12,10 @@ const MemeGallery = () => {
           <p className="text-lg text-cat-brown-light">{MEME_DESCRIPTION}</p>
         </div>
 
-        <div className="container grid grid-cols-1 md:grid-cols-4 max-w-6xl mx-auto">
+        <div className="container grid grid-cols-1 md:grid-cols-3 max-w-6xl mx-auto">
           {MEMES.map((meme, index) => (
             <div
-              key={meme.id}
+              key={index}
               className="p-4 group"
               style={{
                 animationDelay: `${index * 0.1}s`,
