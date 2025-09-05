@@ -12,28 +12,23 @@ export const CONTRACT_ADDRESS_HREF = `https://raydium.io/swap/?outputCurrency=${
 // Social
 export const TWITTER = "https://twitter.com/";
 export const TELEGRAM = "https://t.me/";
-export const DEXSCREENER =
-  "https://dexscreener.com/solana/";
-export const DEXTOOLS =
-  "https://www.dextools.io/app/en/solana/pair-explorer";
+export const DEXSCREENER = "https://dexscreener.com/solana/";
+export const DEXTOOLS = "https://www.dextools.io/app/en/solana/pair-explorer";
 
 // MEME Section
 export const MEME_HEADER = `${NAME} memes`;
 export const MEME_DESCRIPTION = `The infinite meme collection - "there's always a ${NAME} for that."`;
 
 export const MEMES = [
-  { id: 1, src: "/", alt: " vaping meme" },
-  { id: 2, src: "/", alt: " anime Zoro meme" },
-  { id: 3, src: "/", alt: " sunglasses meme" },
-  { id: 4, src: "/", alt: " business meme" },
-  { id: 5, src: "/", alt: " chef meme" },
-  { id: 6, src: "/", alt: " superhero meme" },
-  { id: 7, src: "/", alt: " superhero meme" },
-  { id: 8, src: "/", alt: " superhero meme" },
-  { id: 9, src: "/", alt: " superhero meme" },
-  { id: 10, src: "/", alt: " superhero meme" },
-  { id: 11, src: "/", alt: " superhero meme" },
-  { id: 11, src: "/", alt: " superhero meme" },
+  { src: "/", alt: " vaping meme" },
+  { src: "/", alt: " anime Zoro meme" },
+  { src: "/", alt: " sunglasses meme" },
+  { src: "/", alt: " business meme" },
+  { src: "/", alt: " chef meme" },
+  { src: "/", alt: " superhero meme" },
+  { src: "/", alt: " superhero meme" },
+  { src: "/", alt: " superhero meme" },
+  { src: "/", alt: " superhero meme" },
 ];
 
 // Page metadata
@@ -41,3 +36,15 @@ export const META_TITLE = "Blacky - The Most Memeable Cat on the Internet";
 export const META_DESCRIPTION =
   "blacky, the most viral cat on the internet, lives forever as a cat memecoin on the Solana blockchain. Backed by a thriving community of over 48,000 holders";
 export const META_FAV_ICON = "/blacky.jpeg";
+
+// Carousel
+export const CAROUSEL_IMAGES = [
+  "/blacky.jpeg",
+  "/blacky.jpeg",
+  "/blacky.jpeg",
+  "/blacky.jpeg",
+  "/blacky.jpeg",
+  "/blacky.jpeg",
+];
+export const CAROUSEL_DOTS = true;
+export const CAROUSEL_SLIDE_INTERVAL = 2000;
