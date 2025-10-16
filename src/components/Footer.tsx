@@ -7,9 +7,7 @@ const Footer = () => {
             © 2025 Blacky Community. All rights reserved.
           </p>
           <p className="mt-2 font-medium text-center text-xs max-w-md">
-            DISCLAIMER: all Memecoins are high-risk speculative assets with no
-            intrinsic value that may experience extreme volatility, and you
-            should only invest what you can afford to lose completely.
+            DISCLAIMER: $BLACKY is the future of finance
           </p>
         </div>
       </div>

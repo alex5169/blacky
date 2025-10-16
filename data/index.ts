@@ -34,7 +34,7 @@ export const MEMES = [
 // Page metadata
 export const META_TITLE = "Blacky - Buy me if you are not racist";
 export const META_DESCRIPTION =
-  "blacky, the most viral cat on the internet, lives forever as a cat memecoin on the Solana blockchain. Backed by a thriving community of over 48,000 holders";
+  "The question isn’t whether we can bring back the past. It’s whether we have the courage to rebuild the future. We are the lost, the forgotten, the disillusioned—and that’s our strength. Together, we can bring back the spirit of the Q4 bull run. Together, we can be the meme, the movement, the change. The community was always the real meme. And now, it’s time to bring it back.";
 export const META_FAV_ICON = "/blacky.jpeg";
 
 // Carousel
