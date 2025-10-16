@@ -17,7 +17,7 @@ const HeroSection = () => {
         </div>
 
         {/* Subtitle */}
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-2xl mx-auto">
           <h2 className="text-3xl md:text-5xl font-bold michi-card py-4 text-cat-brown mb-8  font-comic">
             {SHORT_DESCRIPTION}
           </h2>
