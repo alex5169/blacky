@@ -45,6 +45,9 @@ export const CAROUSEL_IMAGES = [
   "/blacky4.jpg",
   "/blacky5.jpg",
   "/blacky6.jpg",
+"/blacky7.jpg",
+  "/blacky8.jpg",
+  "/blacky9.jpg",
 ];
 export const CAROUSEL_DOTS = true;
 export const CAROUSEL_SLIDE_INTERVAL = 2000;
