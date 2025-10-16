@@ -32,7 +32,7 @@ export const MEMES = [
 ];
 
 // Page metadata
-export const META_TITLE = "Blacky - The Most Memeable Cat on the Internet";
+export const META_TITLE = "Blacky - Buy me if you are not racist";
 export const META_DESCRIPTION =
   "blacky, the most viral cat on the internet, lives forever as a cat memecoin on the Solana blockchain. Backed by a thriving community of over 48,000 holders";
 export const META_FAV_ICON = "/blacky.jpeg";
