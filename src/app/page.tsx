@@ -16,7 +16,7 @@ export default function Home() {
         <ContractSection />
         <SocialLinks />
         <MemeGallery />
-        <Tokenomics />
+        //<Tokenomics />
       </main>
       <Footer />
     </div>
