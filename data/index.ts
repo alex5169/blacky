@@ -1,7 +1,7 @@
 // Global
 export const NAME = "blacky";
 export const DESCRIPTION = `${NAME}, the most viral cat on the internet, lives forever as a cat memecoin on the Solana blockchain. ${NAME} is backed by a thriving community of over 48,000 holders. Known as the infinity meme, "there's always a ${NAME} for that."`;
-export const SHORT_DESCRIPTION = `the most memeable cat on the internet`;
+export const SHORT_DESCRIPTION = `Buy me if you are not racist`;
 
 export const MAIN_IMAGE = "/blacky.jpeg";
 
